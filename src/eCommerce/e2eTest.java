@@ -25,6 +25,7 @@ public class e2eTest {
 		
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector(".mb-3")));
 		
+		//new line of code
 		//continue from lecture 156
 		
 		
